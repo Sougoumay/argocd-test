@@ -1,0 +1,8 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: not-important-vous-pouvez-mettre-ce-que-vous-voulez
+
+spec:
+  replicas: 2
